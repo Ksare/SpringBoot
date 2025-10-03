@@ -1,0 +1,36 @@
+2025-10-03T23:52:18.604+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Starting MySecondTestAppSpringBootApplication using Java 23.0.1 with PID 8884 (C:\Users\pavel\IdeaProjects\SpringBoot\MySecondTestAppSpringBoot\target\classes started by paul21 in C:\Users\pavel\IdeaProjects\SpringBoot\MySecondTestAppSpringBoot)
+2025-10-03T23:52:18.609+05:00 DEBUG 8884 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Running with Spring Boot v3.4.10, Spring v6.2.11
+2025-10-03T23:52:18.610+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-03T23:52:20.006+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2025-10-03T23:52:20.028+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-03T23:52:20.029+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
+2025-10-03T23:52:20.096+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-10-03T23:52:20.097+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1394 ms
+2025-10-03T23:52:20.651+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2025-10-03T23:52:20.664+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Started MySecondTestAppSpringBootApplication in 2.82 seconds (process running for 3.372)
+2025-10-03T23:55:13.030+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-03T23:55:13.035+05:00  INFO 8884 --- [MySecondTestAppSpringBoot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-10-03T23:55:18.768+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Starting MySecondTestAppSpringBootApplication using Java 23.0.1 with PID 16900 (C:\Users\pavel\IdeaProjects\SpringBoot\MySecondTestAppSpringBoot\target\classes started by paul21 in C:\Users\pavel\IdeaProjects\SpringBoot\MySecondTestAppSpringBoot)
+2025-10-03T23:55:18.770+05:00 DEBUG 16900 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Running with Spring Boot v3.4.10, Spring v6.2.11
+2025-10-03T23:55:18.771+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-03T23:55:20.211+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2025-10-03T23:55:20.233+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-03T23:55:20.233+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
+2025-10-03T23:55:20.322+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-10-03T23:55:20.323+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1453 ms
+2025-10-03T23:55:20.871+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2025-10-03T23:55:20.883+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Started MySecondTestAppSpringBootApplication in 2.87 seconds (process running for 3.466)
+2025-10-03T23:57:15.105+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-03T23:57:15.111+05:00  INFO 16900 --- [MySecondTestAppSpringBoot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-10-03T23:57:18.999+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Starting MySecondTestAppSpringBootApplication using Java 23.0.1 with PID 13292 (C:\Users\pavel\IdeaProjects\SpringBoot\MySecondTestAppSpringBoot\target\classes started by paul21 in C:\Users\pavel\IdeaProjects\SpringBoot\MySecondTestAppSpringBoot)
+2025-10-03T23:57:19.002+05:00 DEBUG 13292 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Running with Spring Boot v3.4.10, Spring v6.2.11
+2025-10-03T23:57:19.003+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : No active profile set, falling back to 1 default profile: "default"
+2025-10-03T23:57:20.478+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2025-10-03T23:57:20.499+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-03T23:57:20.499+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.46]
+2025-10-03T23:57:20.584+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-10-03T23:57:20.585+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1481 ms
+2025-10-03T23:57:21.133+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2025-10-03T23:57:21.146+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [main] a.M.MySecondTestAppSpringBootApplication : Started MySecondTestAppSpringBootApplication in 2.998 seconds (process running for 3.597)
+2025-10-03T23:59:42.636+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-03T23:59:42.642+05:00  INFO 13292 --- [MySecondTestAppSpringBoot] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
